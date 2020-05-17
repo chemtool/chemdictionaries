@@ -1,5 +1,8 @@
 <h1>Chem Dictionaries</h1>
-<p>Element data and polyatomic ions programmed into 2D arrays.</p>
+<p>
+  Element data and polyatomic ions programmed into 2D arrays.<br>
+  View the original repository at <a href="https://www.github.com/hershyz/chemdictionaries">hershyz/chemdictionaries</a>.</p>
+</p>
 
 <h4>source/Elements.java:</h4>
 <pre>
